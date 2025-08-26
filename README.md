@@ -1,4 +1,4 @@
-# FewNERD R-Precision Demo
+# FewNERD R-Precision Demonstration
 
 This directory contains a minimal, self-contained demonstration of the
 entity retrieval workflow used in this project. The scripts deliberately
