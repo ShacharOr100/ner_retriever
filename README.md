@@ -1,7 +1,7 @@
 # NER Retriever: Zero-Shot Named Entity Retrieval with Type-Aware Embeddings
 
 
-![Main Figure](main_figure.png)
+![Main Figure](figures/main_figure.png)
 
 This directory contains a minimal, self-contained demonstration of the
 entity retrieval workflow used in this project. The scripts deliberately
