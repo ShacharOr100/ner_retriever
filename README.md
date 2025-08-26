@@ -1,4 +1,4 @@
-# FewNERD R-Precision Demonstration
+# NER Retriever: Zero-Shot Named Entity Retrieval with Type-Aware Embeddings
 
 This directory contains a minimal, self-contained demonstration of the
 entity retrieval workflow used in this project. The scripts deliberately
