@@ -1,0 +1,10 @@
+accelerate
+datasets
+faiss-cpu
+huggingface_hub
+numpy
+pyarrow
+safetensors
+torch
+tqdm
+transformers
