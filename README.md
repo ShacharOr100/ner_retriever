@@ -5,13 +5,13 @@
 
 This is the official repository of the paper NER Retriever, where a user-defined type
 description is used to retrieve documents mentioning entities of that type. 
-This repository explains the data pipeline described in the paper.
 
 For example, If the user would like to retrieve all documents containing a dinosaur,
 all documents containing a name of a dinosaur of any kind would be retrieved.
 
 The data is kept both with embedding and textual, so kNN / BM25 / hybrid could all be used. 
 
+This repository explains the data pipeline described in the paper.
 The workflow of NER Retriever contains three parts:
 
 1. **Entity Detection Phase** – `entity_detection_phase_fewnerd.py`
