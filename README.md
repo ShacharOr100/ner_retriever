@@ -3,6 +3,9 @@
 
 ![Main Figure](figures/main_figure.png)
 
+
+[link to paper](https://www.arxiv.org/abs/2509.04011)
+
 This is the official repository of the paper NER Retriever, where a user-defined type
 description is used to retrieve documents mentioning entities of that type. 
 
@@ -26,9 +29,7 @@ The workflow of NER Retriever contains three parts:
    loads the indexed dataset and retrieves the entity types defined in the dataset. 
    REMINDER! none of the LLMs nor the contrastive projection head was trained on Few-NERD dataset, demonstrating schema free retrieval. 
     
-
-For more information, read the paper attached to this repository. 
-
+   
 ![Main Figure](figures/pipeline.jpg)
 
 
